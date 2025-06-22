@@ -5,7 +5,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Kazi Morwan</h1>
-<h3 align="center">Frontend Developer | Speed Learner</h3>
+<h3 align="center">Frontend Developer | Self Learner | Speed Learner</h3>
 
 <div align="center">
 
@@ -17,15 +17,15 @@ Skills: HTML / CSS / JS / React.js
 
 <br>
 
-- 🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/)
+<!-- -   🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/) -->
 
-- 🌱 I’m currently learning Frontend-web-development.
+-   🌱 I’m currently learning Frontend-web-development.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/kazimorwan498)
+-   👨‍💻 All of my projects are available at [GitHub](https://github.com/kazimorwan498)
 
-- 💬 Ask me about **HTML, CSS, JS**
+-   💬 Ask me about **HTML, CSS, JS & React**
 
-- 📫 How to reach me: **<kazimdmorwan498@gmail.com>**
+-   📫 How to reach me: **<kazimdmorwan498@gmail.com>**
 
 <br>
 
@@ -44,14 +44,17 @@ Skills: HTML / CSS / JS / React.js
     <a href="https://codepen.io/kazimorwan498">
         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
     </a>
+    <a href="https://github.com/kazimorwan498">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
     <a href="https://www.figma.com/@kazimorwan498">
-       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+       <img src="https://img.shields.io/badge/Figma-2c2c33?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
     </a>
 </p>
 
 <br>
 
-## Use To Code
+## Languages I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -71,7 +74,7 @@ Skills: HTML / CSS / JS / React.js
 
 ## Best Repositories
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
+<div>
   <a href="https://github.com/kazimorwan498/Creative_for_you-Website-Tailwind_CSS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazimorwan498&repo=Creative_for_you-Website-Tailwind_CSS&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=150" alt="C4U Website" />
   </a>
@@ -98,18 +101,21 @@ Skills: HTML / CSS / JS / React.js
 ## Github Stats
 
 <p align="center">
-  <a href="https://github.com/kazimorwan498">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazimorwan498&theme=radical" alt="Kazi Morwan's GitHub Contribution"/>
-  </a>
+    <a href="https://github.com/kazimorwan498">
+      <img alt="Kazi Morwan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kazimorwan498&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="auto"/>
+    </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/kazimorwan498">
-      <img alt="Kazi Morwan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kazimorwan498&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="auto"/>
+      <img alt="Kazi Morwan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kazimorwan498&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="auto"/>
     </a>
-    <a href="https://github.com/kazimorwan498">
-      <img alt="Kazi Morwan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kazimorwan498&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="auto"/>
-    </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kazimorwan498">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazimorwan498&theme=radical" alt="Kazi Morwan's GitHub Contribution"/>
+  </a>
 </p>
 
 <p align="center">
@@ -133,5 +139,11 @@ Skills: HTML / CSS / JS / React.js
     </a>
     <a href="https://codepen.io/kazimorwan498">
         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
+    </a>
+    <a href="https://github.com/kazimorwan498">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://www.figma.com/@kazimorwan498">
+       <img src="https://img.shields.io/badge/Figma-2c2c33?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
     </a>
 </p>

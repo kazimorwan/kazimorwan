@@ -1,6 +1,12 @@
-<p align="center">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="kazimorwan498's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+<!-- <p align="center">
   <img src="./code.jpg" alt="Code"/>
-</p>
+</p> -->
 
 <br>
 
@@ -19,13 +25,13 @@ Skills: HTML / CSS / JS / React.js
 
 <!-- -   🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/) -->
 
--   🌱 I’m currently learning Frontend-web-development.
+- 🌱 I’m currently learning Frontend-web-development.
 
--   👨‍💻 All of my projects are available at [GitHub](https://github.com/kazimorwan498)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/kazimorwan498)
 
--   💬 Ask me about **HTML, CSS, JS & React**
+- 💬 Ask me about **HTML, CSS, JS & React**
 
--   📫 How to reach me: **<kazimdmorwan498@gmail.com>**
+- 📫 How to reach me: **<kazimdmorwan498@gmail.com>**
 
 <br>
 
